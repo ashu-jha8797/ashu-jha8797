@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @ashu-jha8797
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">🚀 Ashutosh Kumar</h1>
+<p align="center">
+  B.Tech CSIT • Web Dev Enthusiast • Code || Create || Repeat
+</p>
 
-<!---
-ashu-jha8797/ashu-jha8797 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+🌐 **About Me**  
+🧠 Curious mind with a love for code  
+🌱 Learning React, Node.js, MongoDB & Problem Solving  
+⚡ Fueled by caffeine & creativity  
+🤝 Open for collabs, hackathons & side-projects
+
+---
+
+📫 **Let’s Connect**  
+📧 Email: ashutoshjha8797@gmail.com  
+🐙 GitHub: [@ashu-jha8797](https://github.com/ashu-jha8797)
+
+---
+
+🔖 **Fun Fact:**  
+I debug in dreams and design APIs in daydreams ☁️💻
+
+<!--
+Profile crafted with ❤️ by Ashutosh
+-->
