@@ -1,4 +1,4 @@
-# 📊 Data Analytics Dashboard
+# 📊 Data Analytics 
 
 A comprehensive data analytics and visualization tool built with React, Node.js, and MongoDB. Perfect for business intelligence, data-driven decision making, and real-time analytics.
 
